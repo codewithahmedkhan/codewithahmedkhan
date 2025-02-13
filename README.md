@@ -9,6 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewithahmedkhan&label=Profile%20views&color=0e75b6&style=flat" alt="codewithahmedkhan" /> </p>
+<p>Experienced Web Developer with internship experience at Vision Design Studio. Diploma in Software Engineering from APTECH, with strong expertise in MERN, PHP, and full-stack development. Highly skilled in transforming websites into fully functional apps, delivering seamless digital experiences. Winner of the APTECH PHP Competition 2023, with multiple successful projects, including a School Management System and Event Management System.</p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/codewithahmedkhan](https://github.com/codewithahmedkhan)
 
