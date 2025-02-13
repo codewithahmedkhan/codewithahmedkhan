@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone 👋, I'm Ahmed Khan</h1>
-<div align="center"> <img src="[https://github.com/codewithahmedkhan/codewithahmedkhan/blob/main/GitHub%20Banner.png](https://github.com/codewithahmedkhan/cwak/blob/main/akk%20bg.png)"> </div>
+<div align="center"> <img src="https://github.com/codewithahmedkhan/cwak/blob/main/akk%20bg.png" width="100%" alt="GitHub Banner"> </div>
 <h3 align="center">A Passionate Web Developer | Full-Stack Enthusiast | REST API Expert</h3>
 
 <p align="center">
